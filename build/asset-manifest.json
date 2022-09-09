@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c40e3b15.css",
+    "main.js": "/static/js/main.3bb6cc65.js",
+    "static/js/787.1e81e003.chunk.js": "/static/js/787.1e81e003.chunk.js",
+    "static/media/190314020828-bali-asia-travel-restricted.jpg": "/static/media/190314020828-bali-asia-travel-restricted.17452d0c9e7de81fc54c.jpg",
+    "static/media/most-beautiful-landscapes-in-europe-hallstatt-copyright-canadastock-european-best-destinations.jpg": "/static/media/most-beautiful-landscapes-in-europe-hallstatt-copyright-canadastock-european-best-destinations.81bdeda41f38730c6908.jpg",
+    "static/media/australia-beautiful-places-sydney-harbour.jpg": "/static/media/australia-beautiful-places-sydney-harbour.7f285fcbb84e1e1b5911.jpg",
+    "index.html": "/index.html",
+    "main.c40e3b15.css.map": "/static/css/main.c40e3b15.css.map",
+    "main.3bb6cc65.js.map": "/static/js/main.3bb6cc65.js.map",
+    "787.1e81e003.chunk.js.map": "/static/js/787.1e81e003.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c40e3b15.css",
+    "static/js/main.3bb6cc65.js"
+  ]
+}
